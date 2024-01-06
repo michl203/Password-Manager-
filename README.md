@@ -1,17 +1,22 @@
-#  Local Machine Password-Manager
+#  Local Machine Password-Manager (Java Desktop App)
 
 # Project Description
-This project is a Java based password manager desktop application that can run on a user's local machine. 
+This project is a Java based password manager desktop application that is meant to run on a user's local machine (desktop, laptop). I did this project to apply key Cybersecurity topics such as user authentication , two-factor authentication, cryptography, etc... . 
+It was a fun project to create since it was quite challenging at times to implement many of the features I included. There was a lot of trial and error involved, especially for the two-factor authentication implmentation. I resorted to applying another Github user, Austin Delmar's, totp authentication library. His Github account is here if you would like to see the aforementioned code: 
 
-![ciatriad drawio](https://github.com/michl203/Password-Manager-/assets/110306237/94f05d64-f514-4c88-9ab4-d900e4763a2a)
+
+# Features
+
+
 
 
 # Cybersecurity Principles 
 
-Cybersecurity Principles Implemented
+**Cybersecurity Principles Implemented**
 
 I followed the information security principles found in the CIA Triad which consists of these three principles:
 
+![ciatriad drawio](https://github.com/michl203/Password-Manager-/assets/110306237/94f05d64-f514-4c88-9ab4-d900e4763a2a)
 
 | **Confidentiality** | **Integrity** | **Availability** |
 |---------------------|---------------|------------------|
@@ -22,13 +27,9 @@ I followed the information security principles found in the CIA Triad which cons
 
 When designing this app I also referred to the OWASP Top 10 Desktop App Security Risks which can be found here: https://owasp.org/www-project-desktop-app-security-top-10/ 
 
-Here is what I applied to my application from the recommendations:
+Here is what I applied to in application based recommendations by OWASP:
 
 ![owasp drawio](https://github.com/michl203/Password-Manager-/assets/110306237/7b6e4cdb-cff8-4feb-a7f9-45dc494953ff)
-
-
-
-# Features
 
 
 # Technology used
