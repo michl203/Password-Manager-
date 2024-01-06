@@ -3,6 +3,8 @@
 # Project Description
 This project is a Java based password manager desktop application that can run on a user's local machine. 
 
+![ciatriad drawio](https://github.com/michl203/Password-Manager-/assets/110306237/94f05d64-f514-4c88-9ab4-d900e4763a2a)
+
 
 # Cybersecurity Principles 
 
@@ -22,7 +24,8 @@ When designing this app I also referred to the OWASP Top 10 Desktop App Security
 
 Here is what I applied to my application from the recommendations:
 
-![OWASP Diagram]("C:\Users\apamb\Downloads\owasp.drawio.png")
+![owasp drawio](https://github.com/michl203/Password-Manager-/assets/110306237/7b6e4cdb-cff8-4feb-a7f9-45dc494953ff)
+
 
 
 # Features
