@@ -1,3 +1,18 @@
-# Password-Manager-
-This repository stores documentation for my Java Password Manager Desktop App ( no source code is added due to security reasons). 
-I will have a youtube video discussing the code in depth though added to this readme.
+#  Local Machine Password-Manager
+
+# Project Description
+This project is a Java based password manager desktop application that can run on a user's local machine. 
+
+
+# Cybersecurity Principles 
+
+
+# Features
+
+
+# Technology used
+
+
+# Usage 
+
+
