@@ -7,6 +7,8 @@ It was a fun project to create since it was quite challenging at times to implem
 
 # Features
 
+![PassManagerFeatures drawio (1)](https://github.com/michl203/Password-Manager-/assets/110306237/76252b93-23ce-41f3-8a28-ba5fdd4a8f00)
+
 
 
 
@@ -16,13 +18,14 @@ It was a fun project to create since it was quite challenging at times to implem
 
 I followed the information security principles found in the CIA Triad which consists of these three principles:
 
-![ciatriad drawio](https://github.com/michl203/Password-Manager-/assets/110306237/94f05d64-f514-4c88-9ab4-d900e4763a2a)
+![ciatriad drawio (1)](https://github.com/michl203/Password-Manager-/assets/110306237/7156444d-c3c2-433c-a392-53e0e1d4fea0)
+
 
 | **Confidentiality** | **Integrity** | **Availability** |
 |---------------------|---------------|------------------|
 | Hashing and salting user login info for authentication purposes. This prevents unauthorized access to sensitive information. | Jar-signing the application's JAR file ensures that the application hasn't been tampered with, maintaining its integrity. | Using a local MySQL database server prevents issues related to remote connections, ensuring the system's availability is not affected by external factors. |
 | Enforcing time-based one-time password (TOTP) 2FA using Google Authenticator adds an extra layer of security to the login process, ensuring that only authorized users gain access to sensitive data. | Using parameterized statements for JDBC SQL queries prevents the execution of malicious SQL statements, ensuring the integrity of database operations by preventing unauthorized access or modification of data. | Utilizing a local MySQL database ensures that database operations are conducted swiftly, enhancing the system's availability by reducing reliance on external servers and network connections. |
-| Implementing AES-256 encryption for storing user passwords provides a high level of confidentiality by securing sensitive data. | - | - |
+| Implementing AES-256 encryption for storing user passwords provides a high level of confidentiality by securing sensitive data. |  |  |
 
 
 When designing this app I also referred to the OWASP Top 10 Desktop App Security Risks which can be found here: https://owasp.org/www-project-desktop-app-security-top-10/ 
@@ -32,7 +35,17 @@ Here is what I applied to in application based recommendations by OWASP:
 ![owasp drawio](https://github.com/michl203/Password-Manager-/assets/110306237/7b6e4cdb-cff8-4feb-a7f9-45dc494953ff)
 
 
-# Technology used
+# Skills Applied
+1. MySQL Workbench                                                
+2. Java Programming
+3. OOP Design
+4. Database Design/Development
+5. Cryptography
+6. 2FA Implementation / Integrating Open Source Libraries
+7. Project Management
+8. Organization
+9. SQL (Select, Update, Insert, Create Table Statements)
+10. Applied Cybersecurity models (CIA triad, OWASP Top 10)
 
 
 # Usage 
