@@ -48,6 +48,7 @@ Here is what I applied to in application based recommendations by OWASP:
 10. Applied Cybersecurity models (CIA triad, OWASP Top 10)
 
 # Code Organization
+![PMCodeOrg](/PMCodeOrg.drawio.png)
 
 # Dependencies and Libraries used
 
