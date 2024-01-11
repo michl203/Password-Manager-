@@ -49,7 +49,6 @@ Here is what I applied to in application based recommendations by OWASP:
 
 # Code Organization
 
-
 # Dependencies and Libraries used
 
 # Licensing Information
