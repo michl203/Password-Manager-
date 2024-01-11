@@ -50,9 +50,20 @@ Here is what I applied to in application based recommendations by OWASP:
 # Code Organization
 ![PMCodeOrg](/PMCodeOrg.drawio.png)
 
-# Dependencies and Libraries used
+# Dependencies 
+1. jotp 1.3.0.jar (Austin Delamar's Project https://github.com/amdelamar/jotp)
+2. mysql-connector.jar (8.2.0) (MySQl connection and database operations)
+3. rs2xml.jar (DbUtils)
 
+
+# Future Features
+**In order of importance**
+- Password Strength Analyzer
+- Change Password reminders
+- JavaFX GUI (for modern look)
+  
 # Licensing Information
+
 
 
 
