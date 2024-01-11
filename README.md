@@ -2,7 +2,7 @@
 
 # Project Description
 This project is a Java based password manager desktop application that is meant to run on a user's local machine (desktop, laptop). I did this project to apply key Cybersecurity topics such as user authentication , two-factor authentication, cryptography, etc... . 
-It was a fun project to create since it was quite challenging at times to implement many of the features I included. There was a lot of trial and error involved, especially for the two-factor authentication implmentation. I resorted to applying another Github user, Austin Delmar's, totp authentication library. His Github account is here if you would like to see the aforementioned code: 
+It was a fun project to create since it was quite challenging at times to implement many of the features I included. There was a lot of trial and error involved, especially for the two-factor authentication implmentation. I resorted to applying another Github user, Austin Delmar's, totp authentication library. His Github account is here if you would like to see the aforementioned code: https://github.com/amdelamar/jotp.
 
 
 # Features
