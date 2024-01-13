@@ -7,8 +7,9 @@ It was a fun project to create since it was quite challenging at times to implem
 
 # Features
 # **Key Features**
-![PassManagerFeatures]()
-)
+
+![PManagerFeatures()
+
 
 
 # Cybersecurity Principles 
