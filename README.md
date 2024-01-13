@@ -6,11 +6,9 @@ It was a fun project to create since it was quite challenging at times to implem
 
 
 # Features
+# **Key Features**
 
 ![PassManagerFeatures drawio (1)](https://github.com/michl203/Password-Manager-/assets/110306237/76252b93-23ce-41f3-8a28-ba5fdd4a8f00)
-
-
-
 
 # Cybersecurity Principles 
 
