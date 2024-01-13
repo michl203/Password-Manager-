@@ -36,7 +36,7 @@ Here is what I applied to in application based recommendations by OWASP:
 
 
 # Skills Applied
-![PMSkills](/PMSkills.png)
+![PMSkills](/PMSkills.drawio.png)
 
 
 # Code Organization
