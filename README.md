@@ -36,16 +36,8 @@ Here is what I applied to in application based recommendations by OWASP:
 
 
 # Skills Applied
-1. MySQL Workbench                                                
-2. Java Programming
-3. OOP Design
-4. Database Design/Development
-5. Cryptography
-6. 2FA Implementation / Integrating Open Source Libraries
-7. Project Management
-8. Organization
-9. SQL (Select, Update, Insert, Create Table Statements)
-10. Applied Cybersecurity models (CIA triad, OWASP Top 10)
+![PMSkills](/PMSkills.png)
+
 
 # Code Organization
 ![PMCodeOrg](/PMCodeOrg.drawio.png)
