@@ -9,7 +9,7 @@ It was a fun project to create since it was quite challenging at times to implem
 # **Key Features**
 
 
-![PMFeatures]()
+![PMFeatures](https://github.com/michl203/Password-Manager-/blob/main/PassManagerFeatures.drawio%20(2).png)
 
 
 # Cybersecurity Principles 
