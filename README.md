@@ -5,7 +5,7 @@ This project is a Java based password manager desktop application that is meant 
 It was a fun project to create since it was quite challenging at times to implement many of the features I included. There was a lot of trial and error involved, especially for the two-factor authentication implementation. I resorted to applying another Github user, Austin Delamar's, totp authentication library. His Github account is here if you would like to see the aforementioned code: https://github.com/amdelamar/jotp.
 
 
-# Features
+
 # **Key Features**
 
 
